@@ -1,0 +1,7 @@
+bin/*.c
+bin/*.h
+bin.h
+*.o
+genkey
+validkey
+
